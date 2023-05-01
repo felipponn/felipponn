@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**felipponn/felipponn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luís Felipe, an undergraduate student in Data Science with a passion for programming and mathematics.
 
-Here are some ideas to get you started:
+### About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying Data Science at EMAp, the School of Applied Math of FGV.
+- 💻 I have experience in C++, Python, and JavaScript programming.
+- 📈 I'm interested in data analysis and machine learning.
+- 🧮 I also have a background in math olympiads and competitive programming.
+
+### Contact Me 📬
+
+- 📧 marques.luis (at) fgv (dot) edu (dot) br
+- 🌐 [[Link to your personal website or LinkedIn profile]](https://www.linkedin.com/in/luis-felipe-marques/)
+
+Feel free to reach out to me if you have any questions or just want to chat! 😊
