@@ -12,6 +12,6 @@ I'm Luís Felipe, an undergraduate student in Data Science with a passion for pr
 ### Contact Me 📬
 
 - 📧 marques.luis (at) fgv (dot) edu (dot) br
-- 🌐 [[Link to your personal website or LinkedIn profile]](https://www.linkedin.com/in/luis-felipe-marques/)
+- 🌐 [[LinkedIn]](https://www.linkedin.com/in/luis-felipe-marques/)
 
 Feel free to reach out to me if you have any questions or just want to chat! 😊
