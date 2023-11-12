@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Luís Felipe, an undergraduate student in Data Science with a passion for programming and mathematics.
+I'm Luís Felipe, an undergraduate student in Data Science and AI with a passion for programming and mathematics.
 
 ### About Me 🧑🏻‍💻
 
@@ -9,6 +9,8 @@ I'm Luís Felipe, an undergraduate student in Data Science with a passion for pr
 - 📈 I'm interested in data analysis and machine learning.
 - ⚽ I'm interested in sports analytics so I can be productive while watching games.
 - 🧮 I also have a background in math olympiads and competitive programming.
+
+For more info, check out [my personal page](https://felipponn.github.io).
 
 ### Contact Me 📬
 
